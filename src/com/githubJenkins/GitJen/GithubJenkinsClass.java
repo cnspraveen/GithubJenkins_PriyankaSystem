@@ -14,6 +14,7 @@ public class GithubJenkinsClass {
 		driver.get("https://mail.google.com");
 		Reporter.log("Opening Gmail in firefox", true);
 		Reporter.log("Changes done in Github", true);
+		Reporter.log("Changes done in eclips to  Github", true);
 		//Reporter.log("DynamicElements", true);
 		
 		System.setProperty("webdriver.chrome.driver", "D:/PraveenBackUp/EclipseAdvanceSeleniumPractiseClass/Jarfiles/chromedriver.exe");
