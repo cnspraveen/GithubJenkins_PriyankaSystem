@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening Gmail in firefox]]>
+    </line>
+    <line>
+      <![CDATA[Opening Github in Chrome]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78246" started-at="2016-08-17T06:56:31Z" finished-at="2016-08-17T06:57:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78246" started-at="2016-08-17T06:56:31Z" finished-at="2016-08-17T06:57:49Z">
+      <class name="com.githubJenkins.GitJen.GithubJenkinsClass">
+        <test-method status="PASS" signature="DynamicElements()[pri:0, instance:com.githubJenkins.GitJen.GithubJenkinsClass@190c9c3]" name="DynamicElements" duration-ms="78203" started-at="2016-08-17T12:26:31Z" finished-at="2016-08-17T12:27:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Gmail in firefox]]>
+            </line>
+            <line>
+              <![CDATA[Opening Github in Chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DynamicElements -->
+      </class> <!-- com.githubJenkins.GitJen.GithubJenkinsClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
