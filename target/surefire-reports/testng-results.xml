@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening Gmail in firefox]]>
+    </line>
+    <line>
+      <![CDATA[Changes done in Github]]>
+    </line>
+    <line>
+      <![CDATA[Opening Github in Chrome]]>
+    </line>
+    <line>
+      <![CDATA[Changes done in Github]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57388" started-at="2016-08-17T09:07:56Z" finished-at="2016-08-17T09:08:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57388" started-at="2016-08-17T09:07:56Z" finished-at="2016-08-17T09:08:53Z">
+      <class name="com.githubJenkins.GitJen.GithubJenkinsClass">
+        <test-method status="PASS" signature="DynamicElements()[pri:0, instance:com.githubJenkins.GitJen.GithubJenkinsClass@194a1b5]" name="DynamicElements" duration-ms="57376" started-at="2016-08-17T14:37:56Z" finished-at="2016-08-17T14:38:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Gmail in firefox]]>
+            </line>
+            <line>
+              <![CDATA[Changes done in Github]]>
+            </line>
+            <line>
+              <![CDATA[Opening Github in Chrome]]>
+            </line>
+            <line>
+              <![CDATA[Changes done in Github]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DynamicElements -->
+      </class> <!-- com.githubJenkins.GitJen.GithubJenkinsClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
