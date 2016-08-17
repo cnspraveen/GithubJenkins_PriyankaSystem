@@ -8,24 +8,30 @@
       <![CDATA[Changes done in Github]]>
     </line>
     <line>
+      <![CDATA[Changes done in eclips to  Github]]>
+    </line>
+    <line>
       <![CDATA[Opening Github in Chrome]]>
     </line>
     <line>
       <![CDATA[Changes done in Github]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="57388" started-at="2016-08-17T09:07:56Z" finished-at="2016-08-17T09:08:53Z">
+  <suite name="Suite" duration-ms="53128" started-at="2016-08-17T09:29:49Z" finished-at="2016-08-17T09:30:42Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="57388" started-at="2016-08-17T09:07:56Z" finished-at="2016-08-17T09:08:53Z">
+    <test name="Test" duration-ms="53128" started-at="2016-08-17T09:29:49Z" finished-at="2016-08-17T09:30:42Z">
       <class name="com.githubJenkins.GitJen.GithubJenkinsClass">
-        <test-method status="PASS" signature="DynamicElements()[pri:0, instance:com.githubJenkins.GitJen.GithubJenkinsClass@194a1b5]" name="DynamicElements" duration-ms="57376" started-at="2016-08-17T14:37:56Z" finished-at="2016-08-17T14:38:53Z">
+        <test-method status="PASS" signature="DynamicElements()[pri:0, instance:com.githubJenkins.GitJen.GithubJenkinsClass@8dacdf]" name="DynamicElements" duration-ms="53118" started-at="2016-08-17T14:59:49Z" finished-at="2016-08-17T15:00:42Z">
           <reporter-output>
             <line>
               <![CDATA[Opening Gmail in firefox]]>
             </line>
             <line>
               <![CDATA[Changes done in Github]]>
+            </line>
+            <line>
+              <![CDATA[Changes done in eclips to  Github]]>
             </line>
             <line>
               <![CDATA[Opening Github in Chrome]]>
